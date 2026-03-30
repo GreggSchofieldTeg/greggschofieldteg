@@ -12,6 +12,7 @@
 🇨🇭 (Geneva)
 🇱🇮 (Vaduz, Shaan)
 🇷🇴 (Bucharest)
+🇧🇬 (Veliko Tarnovo)
 🇨🇿 (Prauge x2)
 🇸🇰 (bratislava)
 🇵🇱 (Krakow)
