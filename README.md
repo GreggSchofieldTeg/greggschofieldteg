@@ -11,7 +11,7 @@
 - 🇦🇹 (Vienna, Linz, Salzburg, Innsbruck)
 - 🇨🇭 (Geneva)
 - 🇱🇮 (Vaduz, Shaan)
-- 🇷🇴 (Bucharest)
+- 🇷🇴 (Bucharest, Brasov)
 - 🇧🇬 (Veliko Tarnovo)
 - 🇨🇿 (Prauge x2)
 - 🇸🇰 (Bratislava)
