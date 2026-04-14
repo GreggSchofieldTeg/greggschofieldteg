@@ -26,3 +26,20 @@
 - 🇦🇱 (Berat)
 - 🇸🇬 (Singapore)
 - 🇰🇭 (Angkor Watt, Siem Reap, Phnom Pehn)
+
+---
+
+- 🇱🇺 (Luxembourg)
+- 🇮🇪 (Dublin)
+- 🇱🇻 (Riga)
+- 🇱🇹 (Vilnius)
+- 🇭🇺 (Budapest)
+- 🇸🇮 (Ljubljana)
+- 🇭🇷 (Zagreb, Zadar, Split, Dubrovnik)
+- 🇷🇸 (Belgrade)
+- 🇲🇰 (Skopje)
+- 🇧🇦 (Sarajevo)
+- 🇽🇰 (Pristina)
+- 🇬🇪 (Tbilisi)
+- 🇦🇲 (Yerevan)
+- 🇦🇿 (Baku)
